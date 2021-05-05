@@ -3,8 +3,15 @@ Hamburger Menu Overlay is a website in which menu on the left of the page has an
 
 ## Demo
 Here are how this hamburger-menu looks :
-<img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/main-page.png" width="90%"></img> <br><br>
-If you click the `menu icon` on the top left of this page : <br><br>
-<img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/menu.png" width="90%"></img>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/main-page.png" width="90%"></img> 
+</div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/hamburger-menu-overlay](https://github.com/kevinadhiguna)
+<br>
+
+If you click the `menu icon` on the top left of this page : <br><br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/menu.png" width="90%"></img>
+</div>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/hamburger-menu-overlay)(https://github.com/kevinadhiguna)
