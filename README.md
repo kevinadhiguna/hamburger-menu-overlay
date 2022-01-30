@@ -8,7 +8,9 @@ Hamburger Menu Overlay is a website in which menu on the left of the page has an
 
 Here is how this hamburger-menu looks :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/main-page.png" width="90%"></img> 
+  <!-- image from Statically CDN -->
+  <!-- <img src="https://cdn.statically.io/gh/kevinadhiguna/hamburger-menu-overlay/master/demo/main-page.png" width="90%"></img> -->
+  <img src="https://raw.githubusercontent.com/kevinadhiguna/hamburger-menu-overlay/master/demo/main-page.png" width="90%"></img>
 </div>
 
 <br />
