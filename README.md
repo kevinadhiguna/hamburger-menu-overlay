@@ -22,10 +22,12 @@ If you click the `menu icon` on the top left of this page :
 
 <br />
 
-Reference : Traversy Media - YouTube
+## Reference
 
-Thanks for dropping in !
+- [Pure CSS Hamburger Menu & Overlay - Traversy media](https://youtu.be/DZg6UfS5zYg)
 
 <br />
+
+Thanks for dropping in !
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/hamburger-menu-overlay)](https://github.com/kevinadhiguna)
